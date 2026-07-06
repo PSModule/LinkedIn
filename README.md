@@ -4,7 +4,7 @@ LinkedIn is intended to be a PowerShell module for programmatically interacting 
 
 ## Status
 
-This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported commands or usage examples to document yet.
+This repository is currently a placeholder. The module source still contains scaffold code, so there are no stable LinkedIn-specific commands or usage examples to document yet.
 
 ## Documentation
 
